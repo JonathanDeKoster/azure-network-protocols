@@ -116,7 +116,7 @@ ICMP helps visualize connectivity between VMs and the Internet.
 ### **SSH Traffic**
 **Steps:**  
 - Filter for **SSH** in Wireshark  
-- SSH to Ubuntu from Windows PowerShell: ssh labuser@<Ubuntu-Private-IP>
+- SSH to Ubuntu from Windows PowerShell: ssh labuser@Ubuntu-Private-IP
 - Observe authentication and session traffic  
 - Exit session  
 
