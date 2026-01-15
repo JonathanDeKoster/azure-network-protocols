@@ -4,8 +4,21 @@
 
 # Azure Virtual Machines: Network Security Groups and Traffic Analysis
 
-This lab demonstrates **observing network traffic** between Azure virtual machines using Wireshark and experimenting with **Network Security Groups (NSGs)** to understand how firewall rules affect connectivity.
+**Project Overview**
 
+Hands-on Azure lab exploring virtual machine deployment, network security, and traffic analysis. Demonstrates practical experience configuring Azure VMs, observing network traffic, and applying network security rules.
+
+**Objective**
+
+Gain hands-on experience with Azure network protocols, virtual machine management, and network security controls relevant to entry-level IT and cloud support roles.
+
+**What This Lab Covers**
+
+- Creating and configuring Azure virtual machines (Windows & Ubuntu)
+- Monitoring and analyzing network traffic using Wireshark
+- Applying and testing Network Security Group (NSG) rules to control VM communication
+- Understanding network protocols including ICMP, SSH, DHCP, DNS, and RDP
+- Using PowerShell and Remote Desktop for VM management
 ---
 
 ## Environments and Technologies Used
